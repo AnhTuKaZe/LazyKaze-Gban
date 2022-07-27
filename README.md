@@ -1,1 +1,2 @@
 # LazyGlobalBan
+cập nhật gban
